@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I'm JvstinXz and I'm currently trying to learn Java and Python.
+⚡ I'm JvstinXz and welcome to my profile! :D
 <!--
 **jvstinxz/jvstinxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
